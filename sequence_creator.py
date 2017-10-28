@@ -41,8 +41,6 @@ class Sequence_Creator(object):
         GC : float, optional, [0,1]
             GC content to be used in each sequence
 
-
-
         n : int
             The codon table index according to NCBI
         '''
